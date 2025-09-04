@@ -2,7 +2,7 @@
 
 Selamat datang di repositori **NusantaraTech**, sebuah *landing page* dan profil perusahaan fiktif yang dirancang untuk menampilkan solusi teknologi inovatif. Proyek ini merupakan implementasi dari konsep pengembangan web front-end modern, dibangun dengan fokus pada desain yang bersih, responsivitas, dan interaktivitas pengguna.
 
-Proyek ini dibuat sebagai bagian dari tugas **Mini Coding Project** untuk program **Software Engineering Coding Camp** yang diselenggarakan oleh **RevoU**.
+Proyek ini dibuat sebagai bagian dari tugas **Mini Coding Project** untuk program **Software Engineering Coding Camp** pada **25 Agustus 2025** yang diselenggarakan oleh **RevoU**.
 
 #### Tampilan Halaman Utama (Homepage)
 ![Tampilan Halaman Utama NusantaraTech](screenshot/Nusantara-Tech-Home.png)
